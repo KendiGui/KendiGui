@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Kendi!<br>Bem vindos ao meu GitHub <3</h2>
+<h2 align="center">Olá, eu sou o Kendi!<br>Bem vindos ao meu GitHub!</h2>
 
 ###
 
